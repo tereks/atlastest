@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Snoop
+
+  Created by Sergey Kim on 19.10.2020.
+  
+*/
+
+"new_a" = "New A";
+"new_b" = "New B";
+"categories" = "Categories";
+"title" = "Title";
+"description" = "Description";
+"value" = "Value %d";
+
+"change_settings" = "Change Settings";
+"cancel" = "Cancel";
+"save" = "Save";
+
