@@ -15,6 +15,7 @@ final class ApplicationNavCoordinator {
     private var dip: Dependencies
 
     init(dependencies: Dependencies) {
+        // master
         self.dip = dependencies
     }
 
