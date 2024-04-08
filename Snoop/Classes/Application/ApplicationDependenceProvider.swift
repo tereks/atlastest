@@ -20,6 +20,8 @@ func resolve<T>() -> T {
 final class ApplicationDependenceProvider {
 
     func configure() {
+        
+        // master
         container.register(.singleton) { () -> RootRoutable in
             return RootRouter()
         }
