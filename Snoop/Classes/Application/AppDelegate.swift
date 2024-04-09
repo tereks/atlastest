@@ -36,7 +36,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         let rootRouter: RootRoutable = resolve()
         rootRouter.configure(window: window)
         
-        // feature 4
+        // feature 5
     }
 }
 
