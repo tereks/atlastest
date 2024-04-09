@@ -21,7 +21,7 @@ final class ApplicationDependenceProvider {
 
     func configure() {
         
-        // master 4
+        // master 5
         container.register(.singleton) { () -> RootRoutable in
             return RootRouter()
         }
